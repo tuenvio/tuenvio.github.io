@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 domain: tuenvio.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://tuenvio.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+title: Tu Envío
+description: Cotiza entre todas las opciones de empresa que tenemos para ti
