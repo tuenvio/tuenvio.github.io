@@ -1,0 +1,21 @@
+---
+layout: default
+title: Datos de Tu Envío
+---
+
+<h2>Datos Tu Envío</h2>
+
+<!-- Organizations -->
+{% assign datos = site.data.datos %}
+{% assign datos = datos | sort:"Name" %}
+
+<!-- Document -->
+
+{% for dato in datos %}
+
+<!-- <ul>
+<li><strong>{{ investment.Name }}</strong> ({{ investment.Date }}, {{ investment.Notes }})</li>
+</ul> -->
+
+{% endfor %}
+
