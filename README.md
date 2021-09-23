@@ -1,5 +1,13 @@
 ## Tu Envío
 
+<ul>
+  <li><a href="datos.html">Datos</a></li>
+  <li><a href="people.html">People</a></li>
+  <li><a href="investments.html">Investments</a></li>
+  <li><a href="acquisitions.html">Acquisitions</a></li>
+</ul>
+
+
 Cotiza entre todas las opciones de empresa que tenemos para ti
 
 _Síguenos en_ [_Instagram_](https://tuenvio.github.io/)
