@@ -4,6 +4,9 @@ url: https://tuenvio.github.io  # the base hostname and protocol for your site, 
 future: true
 
 integration_spreadsheet_key: 1_CSie-29Q5YIDc3Xgo64BQtdB9sYN_8x     
+github_user: tuenvio
+github_repo: tuenvio.github.io
+
 
 title: Tu Envío
 description: Cotiza entre todas las opciones de empresa que tenemos para ti :)
