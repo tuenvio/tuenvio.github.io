@@ -1,17 +1,19 @@
 ## Tu Envío
 
+
+
+
+Cotiza entre todas las opciones de empresa que tenemos para ti
+
+_Síguenos en_ [_Instagram_](datos.html)
+
+
 <ul>
   <li><a href="datos.html">Datos</a></li>
   <li><a href="people.html">People</a></li>
   <li><a href="investments.html">Investments</a></li>
   <li><a href="acquisitions.html">Acquisitions</a></li>
 </ul>
-
-
-Cotiza entre todas las opciones de empresa que tenemos para ti
-
-_Síguenos en_ [_Instagram_](https://tuenvio.github.io/)
-
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
