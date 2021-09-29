@@ -1,7 +1,18 @@
 Empresas,Precio Santiago Min,Precio Santiago Max,Precio RM,Precio por 1 paquete,Precio por 2 paquetes ,Precio por 3 paquetes,limites,volumen minimo,Contacto,Regiones,Otras restricciones
 Altyro,2990,2990,3990,5980,5980,5980, paquete de hasta 2 kilos y tamaño de 30x20x15 ,"sin volumen minimo, se cobran 2990 adicionales por el retiro de los paquetes",https://instagram.com/altyro.cl?utm_medium=copy_link,no,
-Envíos de Mamá,3000,3000,4000,,,,sin información,sin volumnes minimo,https://www.instagram.com/enviosdemama/,,Se agendan entre jueves a domingo y se despachan de lunes a miercoles
+Envíos de Mamá,3000,3000,4000,Mismo precio independiente de cantidad,Mismo precio independiente de cantidad,Mismo precio independiente de cantidad,sin información,sin volumnes minimo,https://www.instagram.com/enviosdemama/,,Se agendan entre jueves a domingo y se despachan de lunes a miercoles
 M & N Envios,2500,3000,4000-4500,4500-5000,3500-4000,2500-3000,sin información,sin volumen minimo cobro adicional por paquete,https://instagram.com/myn.envios?utm_medium=copy_link,no,lunes a viernes y sabado regiones
-Enviospyme,,,,,,,,,https://www.instagram.com/enviospyme/?hl=es,,
+Enviospyme,300,5000,,,,,,,https://www.instagram.com/enviospyme/?hl=es,no,"envío gratuito desde 5 envios, se cobra 2.000 en total por menos retiros"
 deliverys.tym,3000,5000,-,3000-5000,3000-5000,3000-5000,sin información,sin volumen minimo,https://instagram.com/deliverys.tym?utm_medium=copy_link,no,lunes a viernes
-Envios_pyme,,,3500-4500,,,,30x30X30 3kg,,https://www.instagram.com/envios_pymes/?hl=es,,
+Envios_pyme,3500,4500,10000,,,,30x30X30 3kg,,https://www.instagram.com/envios_pymes/?hl=es,no,"retiros y entregas de lunes a sabado, sin mínimo de paquetes"
+Envios Gallo negro,2500,3500,3500,Mismo precio independiente de cantidad,Mismo precio independiente de cantidad,Mismo precio independiente de cantidad,sin información,sin volumen minimo,https://www.instagram.com/enviosgallonegro_/,si,"Retiros y Entregas de lunes a sábados, sin minimo de bulto ni cobro por retiro"
+speed_envios,2700,4000,,,,,70x70 7kg,,https://www.instagram.com/speed_envios/?hl=es,no,de lunes a viernes
+Repartos Santiago,2500,3000,3000,No envía ,Precio normal + 2000 de retiro,2500,30x20x20,sin volumen minimo,https://www.instagram.com/repartos.santiago/,si,Retiro martes Jueves y Sábados minimo 2 paquetes
+mymenvios,3000,3000,3000,No envía menos de 3,No envía menos de 3,3000,21x30x21,sin volumen minimo,https://www.instagram.com/mymenvios/,no,Retiros Lunes y Jueves minimo 3 paquetes
+tuenviok,2290+retiro,2290,,No envía menos de 2,,,,sin volumen minimo,https://www.instagram.com/stories/highlights/17891930009035063/?hl=es,no,"1490 por retiro, minimo 2 paquetes"
+escargo.cl,2500,4000,,,,,30x30x30 10kg,,https://www.instagram.com/escargo.cl/?hl=es,si V y VI región,
+enviospymes_cl,3000,4000,4000,3500-4500,3500-4500,3000-4000,sin información,sin volumen minimo,,no,
+12horas_envios,2990+2990 retiro,2990+2990 retiro,2990+2990 retiro,2990+2990 retiro,2990+2990 retiro,2990+2990 retiro,solo para paquetes pequeños y medianos,sin volumen minimo,https://www.instagram.com/12horas_envios/,si,
+en.vias,2000,4000,5000,,,,35 a 40cm,sin volumen minimo,https://www.instagram.com/stories/highlights/17862732868988980/?hl=es,no,solo pymes
+yekaenvios.cl,2400,4700,,,,,50x40x25 1kg,sin volumen minimo,https://www.instagram.com/p/CQtghTqp5tM/,no,"envios ecológicos en bicicleta, los retiros se hacen según el día que corresponda a la zona"
+andromeda._envios,2990,4490,,no envía menos de 3,no envía menos de 3,,25x35x40,sin volumen minimo,https://www.instagram.com/andromeda._envios/?hl=es,si,
