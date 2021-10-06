@@ -1,18 +1,29 @@
-Empresas,Precio Santiago Min,Precio Santiago Max,Precio RM,Precio por 1 paquete,Precio por 2 paquetes ,Precio por 3 paquetes,limites,volumen minimo,Contacto,Regiones,Otras restricciones
-Altyro,2990,2990,3990,5980,5980,5980, paquete de hasta 2 kilos y tamaño de 30x20x15 ,"sin volumen minimo, se cobran 2990 adicionales por el retiro de los paquetes",https://instagram.com/altyro.cl?utm_medium=copy_link,no,
-Envíos de Mamá,3000,3000,4000,Mismo precio independiente de cantidad,Mismo precio independiente de cantidad,Mismo precio independiente de cantidad,sin información,sin volumnes minimo,https://www.instagram.com/enviosdemama/,,Se agendan entre jueves a domingo y se despachan de lunes a miercoles
-M & N Envios,2500,3000,4000-4500,4500-5000,3500-4000,2500-3000,sin información,sin volumen minimo cobro adicional por paquete,https://instagram.com/myn.envios?utm_medium=copy_link,no,lunes a viernes y sabado regiones
-Enviospyme,300,5000,,,,,,,https://www.instagram.com/enviospyme/?hl=es,no,"envío gratuito desde 5 envios, se cobra 2.000 en total por menos retiros"
-deliverys.tym,3000,5000,-,3000-5000,3000-5000,3000-5000,sin información,sin volumen minimo,https://instagram.com/deliverys.tym?utm_medium=copy_link,no,lunes a viernes
-Envios_pyme,3500,4500,10000,,,,30x30X30 3kg,,https://www.instagram.com/envios_pymes/?hl=es,no,"retiros y entregas de lunes a sabado, sin mínimo de paquetes"
-Envios Gallo negro,2500,3500,3500,Mismo precio independiente de cantidad,Mismo precio independiente de cantidad,Mismo precio independiente de cantidad,sin información,sin volumen minimo,https://www.instagram.com/enviosgallonegro_/,si,"Retiros y Entregas de lunes a sábados, sin minimo de bulto ni cobro por retiro"
-speed_envios,2700,4000,,,,,70x70 7kg,,https://www.instagram.com/speed_envios/?hl=es,no,de lunes a viernes
-Repartos Santiago,2500,3000,3000,No envía ,Precio normal + 2000 de retiro,2500,30x20x20,sin volumen minimo,https://www.instagram.com/repartos.santiago/,si,Retiro martes Jueves y Sábados minimo 2 paquetes
-mymenvios,3000,3000,3000,No envía menos de 3,No envía menos de 3,3000,21x30x21,sin volumen minimo,https://www.instagram.com/mymenvios/,no,Retiros Lunes y Jueves minimo 3 paquetes
-tuenviok,2290+retiro,2290,,No envía menos de 2,,,,sin volumen minimo,https://www.instagram.com/stories/highlights/17891930009035063/?hl=es,no,"1490 por retiro, minimo 2 paquetes"
-escargo.cl,2500,4000,,,,,30x30x30 10kg,,https://www.instagram.com/escargo.cl/?hl=es,si V y VI región,
-enviospymes_cl,3000,4000,4000,3500-4500,3500-4500,3000-4000,sin información,sin volumen minimo,,no,
-12horas_envios,2990+2990 retiro,2990+2990 retiro,2990+2990 retiro,2990+2990 retiro,2990+2990 retiro,2990+2990 retiro,solo para paquetes pequeños y medianos,sin volumen minimo,https://www.instagram.com/12horas_envios/,si,
-en.vias,2000,4000,5000,,,,35 a 40cm,sin volumen minimo,https://www.instagram.com/stories/highlights/17862732868988980/?hl=es,no,solo pymes
-yekaenvios.cl,2400,4700,,,,,50x40x25 1kg,sin volumen minimo,https://www.instagram.com/p/CQtghTqp5tM/,no,"envios ecológicos en bicicleta, los retiros se hacen según el día que corresponda a la zona"
-andromeda._envios,2990,4490,,no envía menos de 3,no envía menos de 3,,25x35x40,sin volumen minimo,https://www.instagram.com/andromeda._envios/?hl=es,si,
+﻿;Precios unitarios;;Precio unitarios en zonas lejanas de la RM;;Cobro base por retiro;;;;;;;;;
+Nombre de la empresa;Mínimo ;Máximo;Minimo;Maximo;Minimo;Maximo;Detalle ;Mínimo costo posible de envío;Cantidad mínima de paquetes;Contacto por Instagram;Plazo de entrega ;Características especiales;Enfoque en Pymes;Tamaño y peso
+Envios Gallo negro;2000;3500;4000;4000;0;0;-;2000;0;https://www.instagram.com/enviosgallonegro_/;-;Envios a V región;Si;-
+en.vias;2000;4000;5000;5000;0;0;-;2000;"0 -3
+(zonas lejanas)";https://www.instagram.com/stories/highlights/17862732868988980/?hl=es;48 hr;-;Si;35x40cm
+deliverys.tym;2000;5000;-;-;0;0;-;2000;0;https://instagram.com/deliverys.tym?utm_medium=copy_link;-;Entregan comidas y pasteles;Si;-
+yekaenvios.cl;2400;4700;-;-;0;0;-;2400;0;https://www.instagram.com/yekaenvioscl/;48hr hábiles;-;Si;30x20x15cm
+escargo.cl;2500;4000;3500;3500;0;0;-;2500;0;https://www.instagram.com/escargo.cl/?hl=es;48hr hábiles;Entregas 100% en bicicleta, 0%huella CO2;No;50x40x25cm 1kg
+ecorepartos.cl;2500;4000;-;-;0;0;-;2500;0;https://www.instagram.com/ecorepartos.cl/;24hr;Envios a Coquimbo, Concepcion,Pto. Montt, Temuco,Rancagua , Valparaíso etc...;No;30x20x20cm 8kg
+speed_envios;2700;4000;4000;5000;0;0;-;2700;0;https://www.instagram.com/speed_envios/?hl=es;48 hr;Entregas en V y VI región;Si;30x30x30cm 10kg
+Envíos de Mamá;3000;3000;4000;4000;0;0;-;3000;0;https://www.instagram.com/enviosdemama/;Lunes, Martes y miercoles;-;Si;20x30x15cm
+Envios_pyme;3500;4500;10000;10000;0;0;-;3500;0;https://www.instagram.com/envios_pymes/?hl=es;48 hr;-;No;-
+envios.cobra;3500;4000;-;-;0;0;-;3500;-;https://www.instagram.com/envios.cobra/?hl=es-la;48hr;Baja huella de carbono;No;-
+enviosomega.cl;3000;3000;5000;5000;1000;1000;-;4000;0;https://www.instagram.com/rapidos.envios21/?hl=es-la;24hr;-;No;"70x40cm
+7kg"
+andromeda._envios;2990;3490;4490;4990;0;1500;Costo 0 desde 3 paquetes/envíos;4490;0;https://www.instagram.com/andromeda._envios/?hl=es;24hr;-;Si;"40x30cm
+5kg"
+Repartos Santiago;2500;3000;3500;3500;0;2000;Costo 0 desde 3 paquetes/envíos;4500;0;https://www.instagram.com/repartos.santiago/;-;entregas en V región;No;"tamaño caja de zapatos 
+5kg"
+Enviospyme;3000;3000;4000;4500;0;2000;Costo 0 desde 5 paquetes/envíos;5000;0;https://www.instagram.com/enviospyme/?hl=es;48 hr;Cuenta con un club de socios;No;30x20x15cm 2kg
+envios.emprende;2500;3000;4000;4000;3000;3000;-;5500;0;https://www.instagram.com/envios.emprende/?hl=es-la ;48hr;Entregas en V y VI región;No;40x25x35cm 3kg
+M & N Envios;2500;3000;4000;4500;0;3000;Costo 0 desde 3 paquetes/envíos;5500;0;https://instagram.com/myn.envios?utm_medium=copy_link;48 hr;-;No;20x30x40cm
+Altyro;2990;2990;3990;3990;2990;2990;-;5980;0;https://www.instagram.com/altyro.cl/?utm_medium=copy_link;12 hr;Cuenta con envios express en menos de 3 horas, empresa de mujeres;No;-
+deliveryando.cl;2990;2990;4490;4490;0;2990;Costo 0 desde 3 paquetes/envíos;5980;-;https://www.instagram.com/deliveryando.cl/;-;Empresa de mujeres;Si;tamaño de una caja de zapatos
+tuenviok;2290;2290;-;-;1490;1490;-;6070;2;https://www.instagram.com/tuentregaok/?hl=es;12hr;-;No;21x30x21 cm 
+mymenvios;3000;3000;4000;4000;0;0;-;9000;3;https://www.instagram.com/mymenvios/;48hr;-;Si;-
+enviospymes.cl;3000;3500;4500;6000;0;0;-;9000;3;https://www.instagram.com/enviospyme.cl/?hl=es;48hr;-;Si;-
+envios.now;2790;3000;2790;3000;2590;2590;-;10960;3;https://www.instagram.com/envios.now/?hl=es-la;-;-;-;30x30x30cm 3kg
+12horas_envios;2990;2990;2990;2990;2990;2990;-;11960;3;https://www.instagram.com/12horas_envios/;12hr;-;Si;34x23x11cm
