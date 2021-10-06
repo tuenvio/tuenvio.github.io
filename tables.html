@@ -924,6 +924,31 @@
     <!-- Page level custom scripts -->
     <script src="js/demo/datatables-demo.js"></script>
 
+    <script>
+        function format_link(link) {
+            if (link)
+                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            else return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/datos.csv",
+            element: "table-container",
+            allow_download: false,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: false
+            },
+            custom_formatting: [
+                [9, format_link] //execute the function on the 10th column of every row
+            ]
+        });
+
+    </script>
+
 </body>
 
 </html>
